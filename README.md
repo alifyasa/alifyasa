@@ -8,7 +8,7 @@ Hi, I'm Alif. I am currently learning about simulations, seeking to expand my kn
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust)](https://www.rust-lang.org/)
 [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)](https://www.typescriptlang.org/)
 [![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=Haskell)](https://www.haskell.org/)
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/)
 [![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=CPlusPlus)](https://isocpp.org/)
 [![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
