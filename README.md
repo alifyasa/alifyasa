@@ -20,8 +20,8 @@ Hi, I'm Alif. I am currently learning about simulations, seeking to expand my kn
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://react.dev/)
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://www.postgresql.org/)
-[![Unity](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://unity.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)](https://unity.com/)
 
 ## Operating Systems
 
