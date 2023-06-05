@@ -33,3 +33,4 @@ Hi, I'm Alif. I am currently learning about simulations, seeking to expand my kn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alif-yasa/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=Kaggle)](https://kaggle.com/malifpy)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/alifyasa)
+[![e-mail](https://img.shields.io/badge/e--mail-black?style=for-the-badge&logo=gmail)](mailto:contact@alifyasa.dev)
