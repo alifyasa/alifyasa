@@ -16,8 +16,9 @@ Hi, I'm Alif. I am currently learning about simulations, seeking to expand my kn
 
 ## Technologies and Frameworks
 
-[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)](https://www.terraform.io/)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://react.dev/)
 [![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
