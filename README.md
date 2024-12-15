@@ -1,4 +1,15 @@
-# Hello
+# Muhammad Alif Putra Yasa
+
+<span>
+    <img src="icons/gmail.svg" width=20 length=20>
+    <a href="mailto:malifputrayasa@gmail.com"><i>malifputrayasa@gmail.com</i></a>
+</span>
+<span>
+    <img src="icons/linkedin.svg" width=20 length=20>
+    <a href="https://www.linkedin.com/in/alifyasa"><i>in/alifyasa</i></a>
+</span>
+
+
 
 I'm **Alif Yasa**. I'm interested in DevOps, [Kubernetes](https://kubernetes.io/docs/home/), and simulations. You can check out my projects on my [GitHub repositories](https://github.com/alifyasa?tab=repositories).
 
